@@ -1,0 +1,12 @@
+xcassets:
+   paths: ../CustomTabBar/Assets.xcassets
+   templateName: swift4
+   output: ../CustomTabBar/Resources/AssetsConstants.swift  
+fonts:
+   paths: ../CustomTabBar/Resources/Fonts
+   templateName: swift4
+   output: ../CustomTabBar/Resources/FontConstants.swift
+storyboards:
+   paths: ../CustomTabBar/Flows
+   templateName: swift4
+   output: ../CustomTabBar/Resources/StoryboardsConstants.swift
